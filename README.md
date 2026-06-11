@@ -274,7 +274,11 @@ flutter build ipa --release
 | **EmergencyScreen**    | 9 quick-dial contacts + 4 first-aid protocol cards                   |
 | **SearchScreen**       | Universal real-time full-text search                                 |
 
-> 📸 _Screenshots coming soon — run the app to experience the full UI._
+### Stay & Accommodation Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4780949e-dcd9-4bfd-b8f8-d4a9a22b204e" width="320" alt="Gir Yatra Stay & Accommodation screen" />
+</p>
 
 ---
 
