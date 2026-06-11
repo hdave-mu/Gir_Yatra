@@ -277,7 +277,7 @@ flutter build ipa --release
 ### Stay & Accommodation Screen
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4780949e-dcd9-4bfd-b8f8-d4a9a22b204e" width="320" alt="Gir Yatra Stay & Accommodation screen" />
+  <img src="https://github.com/user-attachments/assets/d59c6ea9-4b2f-4747-b0b6-266eebc88d37" width="320" alt="Gir Yatra Stay & Accommodation screen" />
 </p>
 
 ---
